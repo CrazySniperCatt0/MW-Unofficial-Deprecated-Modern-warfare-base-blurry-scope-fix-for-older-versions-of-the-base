@@ -1,0 +1,1 @@
+RunConsoleCommand("mgbase_fx_blur", "0")
